@@ -1,1 +1,3 @@
-tea cozy
+tea-cozy
+
+Tea Cozy - Codecademy Project
